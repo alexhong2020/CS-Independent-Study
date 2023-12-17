@@ -1,20 +1,20 @@
 # CS-Independent-Study
 Apps of Generative AI in Education
 
-### /Bard
+##### /Bard
 Folder containing some experimental code run using Google Bard
 
-### /CS101
+##### /CS101
 Original CS101 Problems executed by 6 LLM's in Java and Python
 
-### /CS201
+##### /CS201
 Original CS201 Problems executed by 6 LLM's in Java and Python
 
-### /VSCodeExt
+##### /VSCodeExt
 Experimental VSCode Extension in an attempt to understand Co-Pilot API/methods
 
-### /ayh13
+##### /ayh13
 Original Questions and Prompts for user coding. Directly copied from APT Platform
 
-### /python-chatgpt
+##### /python-chatgpt
 Prompt Engineering utilizing OpenAI's ChatGPT API and key
